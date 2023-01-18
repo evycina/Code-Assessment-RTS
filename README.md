@@ -1,6 +1,6 @@
 RTS Code Assessment 
 
-Applicant: Eveli Bayne 
+Candidate: Eveli Bayne 
 
 Language used: C# 
 
