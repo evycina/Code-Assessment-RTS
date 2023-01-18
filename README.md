@@ -1,5 +1,7 @@
 RTS Code Assessment 
+
 Applicant: Eveli Bayne 
+
 Language used: C# 
 
 Includes unit tests developed using MSTest. Development was performed using Visual Studio 2019, but only source files have 
@@ -7,16 +9,18 @@ been included for review.
 
 To my reviewers: Thank you so much for taking the time to review my assessment and consider me for this opportunity!!!
 
-==================== Thank you! ====================
+====================================================
 
 Prompt: 
 
 Write a class in the language of your choice that contains the following two public methods:
 
-aboveBelow
+AboveBelow
+
 	Parameters:
 		An unsorted collection of integers (the list)
 		an integer (the comparison value)
+		
 	Returns:
 		Key/Value Pair Collection containing 
 			Keys:
@@ -29,7 +33,8 @@ aboveBelow
 		input: [1, 5, 2, 1, 10], 6
 		output: { "above": 1, "below": 4 }
 
-stringRotation
+StringRotation
+
 	Parameters:
 		A string (original string)
 		A positive integer (rotation amount)
