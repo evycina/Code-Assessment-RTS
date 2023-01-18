@@ -1,6 +1,6 @@
-RTS Code Assessment \n
-Applicant: Eveli Bayne \n
-Language used: C# \n
+RTS Code Assessment 
+Applicant: Eveli Bayne 
+Language used: C# 
 
 Includes unit tests developed using MSTest. Development was performed using Visual Studio 2019, but only source files have 
 been included for review. 
